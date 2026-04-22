@@ -103,8 +103,8 @@ Drop this into your agent's system prompt — see [`prompts/guard-pattern.md`](.
 ## Development
 
 ```bash
-git clone https://github.com/netvistamedia/toolrate
-cd toolrate/mcp/python
+git clone https://github.com/netvistamedia/toolrate-mcp
+cd toolrate-mcp/python
 
 python -m venv .venv
 source .venv/bin/activate

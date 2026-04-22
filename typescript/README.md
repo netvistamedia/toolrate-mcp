@@ -101,8 +101,8 @@ Drop this into your agent's system prompt — see [`prompts/guard-pattern.md`](.
 ## Development
 
 ```bash
-git clone https://github.com/netvistamedia/toolrate
-cd toolrate/mcp/typescript
+git clone https://github.com/netvistamedia/toolrate-mcp
+cd toolrate-mcp/typescript
 npm install
 npm run build
 
